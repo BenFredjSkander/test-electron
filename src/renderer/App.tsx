@@ -9,7 +9,7 @@ function Hello() {
         <img width="200" alt="icon" src={icon} />
       </div>
       <h1>electron-react-boilerplate</h1>
-      V1.0.0
+      V1.2.0
       <div className="Hello">
         <a
           href="https://electron-react-boilerplate.js.org/"
